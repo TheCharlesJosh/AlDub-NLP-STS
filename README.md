@@ -1,2 +1,6 @@
-# AlDub-NLP-STS
-A quick yet effective tool for sentiment analysis using the basics of natural language processing.
+# Sentiment Analysis for #AlDubEBTamangPanahon Tweets
+Utilizing Python, Tweepy, MariaDB, NLTK.
+
+Quick but effective way of streamlining similar tweets to mood groups.
+
+Mood groups based on Rappler's mood meter.
